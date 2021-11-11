@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209797861146",
+    "project_id": "grupo15caom",
+    "storage_bucket": "grupo15caom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209797861146:android:4daad71272e4624f1ca6a3",
+        "android_client_info": {
+          "package_name": "com.cristianortega.firebase_grupo15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209797861146-1ql7pmego426f71rlrfnebbl73c41mg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJCNsJl-y0h-mbyCSBqefw8RyQLlQZ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209797861146-1ql7pmego426f71rlrfnebbl73c41mg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
