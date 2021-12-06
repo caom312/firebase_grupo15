@@ -4,7 +4,7 @@
         android:label="firebase_grupo15"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="YOUR KEY HERE"/>
+           android:value="AIzaSyB832P4-lzZBAl5oegwcKyAMYVyIHJxf0A"/>
        <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
